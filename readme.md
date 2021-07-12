@@ -26,7 +26,7 @@ $ mongo
 
 ## Migrate system templates 
 ```bash
-$ MONGODB_MIGRATIONS_CONFIG=migrations/test_config.ini mongodb-migrate
+$ MONGODB_MIGRATIONS_CONFIG=migrations/config.ini mongodb-migrate
 ```
 
 ## Run server
